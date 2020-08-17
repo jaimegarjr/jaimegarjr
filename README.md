@@ -1,4 +1,4 @@
-## Hey there! 😉
+### Hey there! 😉
 I'm Jaime, and I'm currently studying Computer Engineering trying go into software development. I'm currently focusing on learning Python, but most of my coursework on programming fundamentals has been through C++. I work a Web Development Assistant job, so web development has also been a recent interest of mine (along with mobile app development). 
 
 ### Skills and Languages 🛠
