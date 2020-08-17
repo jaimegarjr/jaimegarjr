@@ -9,4 +9,4 @@ Skills: Ubuntu / Kali Linux Environment, Git / Github, Google Cloud Platform, FP
 ### Contact 📱
 Reach me at my email: ```jaime.garcia12@utrgv.edu```. 
 
-Thanks for looking into my profile! Have a great one ;).
+Thanks for looking into my profile! Have a great one.
