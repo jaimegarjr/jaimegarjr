@@ -3,6 +3,7 @@ I'm Jaime, and I'm currently studying Computer Engineering trying go into softwa
 
 ### Skills and Languages 🛠
 Languages: C++, Python, Dart / Flutter, HTML / CSS, C#, Javascript, and SQL
+
 Skills: Ubuntu / Kali Linux Environment, Git / Github, Google Cloud Platform, FPGA
 
 ### Contact 📱
