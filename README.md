@@ -7,6 +7,10 @@ Languages: C++, Python, Dart / Flutter, HTML / CSS, C#, Javascript, and SQL
 Skills: Ubuntu / Kali Linux Environment, Git / Github, Google Cloud Platform, FPGA
 
 ### Contact 📱
-Reach me at my email: ```jaime.garcia12@utrgv.edu```. 
+Email: ```jaime.garcia12@utrgv.edu```. 
+
+Linkedin: https://www.linkedin.com/in/jaime-garcia-jr-032336180/
+
+Personal Website: https://jjgar2725.github.io/
 
 Thanks for looking into my profile! Have a great one.
