@@ -14,3 +14,6 @@ I'm *Jaime*, and I'm currently studying **Computer Engineering** trying go into 
 **[Personal Website](https://jjgar2725.github.io/)**
 
 Thanks for looking into my profile! Have a great one.
+
+[![Jaime's github stats](https://github-readme-stats.vercel.app/api?username=JJgar2725)](https://github.com/anuraghazra/github-readme-stats)
+
