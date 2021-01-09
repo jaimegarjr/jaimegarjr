@@ -17,5 +17,3 @@ Thanks for looking into my profile! Have a great one.
 
 ![Jaime's github stats](https://github-readme-stats.vercel.app/api?username=JJgar2725&show_icons=true&theme=dark&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJgar2725&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
