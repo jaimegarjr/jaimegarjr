@@ -1,5 +1,5 @@
 ### Heya!
-I'm Jaime - currently studying Computer Engineering trying go into software development.
+I'm Jaime - currently studying Computer Engineering and going into software development.
 
 **[Linkedin](https://www.linkedin.com/in/jaime-garcia-jr-032336180/)**
 
