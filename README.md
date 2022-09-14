@@ -1,8 +1,8 @@
 ### Heya!
 I'm Jaime - currently studying Computer Engineering and going into software development.
 
-**[Linkedin](https://www.linkedin.com/in/jaime-garcia-jr-032336180/)**
+**[Linkedin](https://www.linkedin.com/in/jaime-garcia-jr)**
 
-**[Personal Website](https://jjgar2725.github.io/)**
+**[Personal Website](https://jaimegarjr.github.io/)**
 
-**[Design Portfolio](https://dribbble.com/jaime_gar2725)**
+**[Design Portfolio](https://dribbble.com/jaimegarciajr)**
