@@ -1,5 +1,5 @@
 ### Heya!
-I'm Jaime - currently studying Computer Engineering and going into software development.
+I'm Jaime - got a Computer Engineering degree and am working full-time as a software engineer at Atlassian.
 
 **[Linkedin](https://www.linkedin.com/in/jaime-garcia-jr)** - **[Personal Website](https://jaimegarjr.github.io/)** - **[Design Portfolio](https://dribbble.com/jaimegarciajr)**
 
